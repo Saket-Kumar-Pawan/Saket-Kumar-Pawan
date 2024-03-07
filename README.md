@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Saket-Kumar-Pawan
 ## About Me
 An enthusiastic and highly motivated individual with experience in programming and project management.
-Proficient in developing and debugging multi-thread applications on Windows OS, web development, Application Development, Java, JavaScript, Node.JS, Spring Framework, and OOP principles.
+Proficient in developing and debugging multi-thread applications on Windows OS, Web Application development, Java, JavaScript, Node.JS, Spring Framework, and OOP principles.
 Strong communication skills for teamwork and problem-solving.
 
 ## 🌱 Currently Learning
