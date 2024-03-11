@@ -8,7 +8,7 @@ Strong communication skills for teamwork and problem-solving.
 Continuously improving skills in software development and exploring new technologies to enhance my capabilities.
 
 ## 💼 Skills
-- **Programming Languages:** Java, Python, C++
+- **Programming Languages:** Java, Python, 
 - **Web Development:** HTML, CSS, JavaScript, React.js, Node.js, Express
 - **Database Management:** MySQL, MongoDB
 - **Verison Control and Code Repo:** Git, GitHub
